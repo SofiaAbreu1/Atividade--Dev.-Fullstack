@@ -15,4 +15,5 @@ let Industry = new Schema({
     collection: 'industry'
 });
 
+
 module.exports = mongoose.model('Industry', Industry);
